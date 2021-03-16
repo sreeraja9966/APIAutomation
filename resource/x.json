@@ -1,0 +1,24 @@
+[{
+	"accType": "",
+	"transAmt": "100.00",
+	"instr_Date": "03/08/2021",
+	"transType": "D",
+	"status": "E",
+	"transFlag": "ACCOUNT_TO_USER",
+	"transCode": "CashDeposite",
+	"detailModels": [{
+		"depositor": "A",
+		"currency": "INR",
+		"instrDate": "2021/01/31",
+		"crdr": "C",
+		"remark": "By Cash",
+		"transMode": "CashDeposite",
+		"accNo": "804000200130011601",
+		"transAmt": "100.00",
+		"accType": "SB",
+		"cashAmount": "100.00"
+	}],
+	"rebate": {},
+	"rebatePenaltyModel": {}
+}
+]
